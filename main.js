@@ -41,7 +41,8 @@ function name(a, b) {
 }
 
 
-// console.log(isValidName("Ihtiyor") === true);
+console.log(isValidName("Ihtiyor") === true);
+
 
 
 
