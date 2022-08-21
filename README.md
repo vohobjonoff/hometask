@@ -1,3 +1,3 @@
 ## Abdulaziz Tukhatev
 
-#Home work from lesson 7
+Home work from lesson 8
